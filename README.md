@@ -1,6 +1,22 @@
 ## Hi, i'm frontend developer 👋
 
 
+
+🧑🏻‍💻 Currently working on table library
+###
+🙇🏻‍♂️ Currently learning node.js <img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/nodejs.svg" width=20/>
+
+## Tech Stack 💻
+<img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/html5.svg" width=50/> <img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/css3.svg" width=50/><img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/BAM.svg" width=50/>
+###
+<img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/javascript.svg" width=50/> <img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/react.svg" width=50/> <img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/redux.svg" width=50/><img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/typescript.svg" width=50/>
+###
+<img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/sass.svg" width=50/><img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/materialui.svg" width=50/><img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/bootstrap.svg" width=50/>
+###
+<img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/webpack.svg" width=50/><img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/npm.svg" width=50/><img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/git.svg" width=50/>
+###
+<img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/webstorm.png" width=50/><img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/youtrack.png" width=50/>
+
 <!--
 **Wonder4Code/Wonder4Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
