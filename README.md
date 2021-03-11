@@ -2,7 +2,7 @@
 
 
 
-🧑🏻‍💻 Currently working on table library
+🧑🏻‍💻 Currently working on To-do with wide functionality
 ###
 🙇🏻‍♂️ Currently learning node.js <img src="https://github.com/Wonder4Code/Wonder4Code/blob/main/images/nodejs.svg" width=20/>
 
