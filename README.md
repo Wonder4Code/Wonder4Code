@@ -31,6 +31,8 @@ Other:
 - Figma
 - UI libs
 - Git
+- Cypress
+- Jest
 
 #
 ### Projects 🎨
